@@ -1,0 +1,21 @@
+# macOS / editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Webmore runtime data (never commit local accounts/content)
+/private/data/*.json
+/private/data/rate/*
+!/private/data/.gitkeep
+!/private/data/rate/.gitkeep
+/private/uploads/*
+!/private/uploads/.gitkeep
+
+# PHP/runtime files
+*.log

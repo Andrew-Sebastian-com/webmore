@@ -1,0 +1,18 @@
+[
+    {
+        "id": "93689487b164561cc84df062fd50f055",
+        "username": "Andrew",
+        "email": "andrew.sbstian@gmail.com",
+        "password_hash": "$argon2id$v=19$m=65536,t=4,p=1$c2czQ2ZuY0pFOFUyVE9jNQ$Q3XFWm8uaLxsbCM9usgb0XwLu/J5Zl5rRu0ypSBPeMk",
+        "created_at": 1790993517,
+        "age_verified_at": 1790993517,
+        "display_name": "Andrew",
+        "bio": "",
+        "website": "",
+        "avatar": "",
+        "theme": "system",
+        "accent": "#e85d2a",
+        "terms_accepted_at": 1790993517,
+        "policy_version": "2.0"
+    }
+]
